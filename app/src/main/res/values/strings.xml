@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView SharedPrefs Kotlin</string>
+    <string name="todo">TODO</string>
+    <string name="line_2">Line 2</string>
+    <string name="line_1">Line 1</string>
+    <string name="insert">insert</string>
+    <string name="save">save</string>
+</resources>
